@@ -70,3 +70,19 @@ plataforma GitHub que contenga toda la información recopilada en las partes A
 y B. Asegúrese de incluir gráficas con buena resolución. Cada estudiante debe
 tener su propia cuenta y deben aparecer como colaboradores en el repositorio.
 En caso contrario, solo se calificará al estudiante que aparece como editor.
+
+REFERENCIAS
+
+[1] SPR Ad Hoc Committee on Electrodermal Measures. "Publication recommendations for electrodermal measurements." Psychophysiology, vol. 49, no. 8, pp. 1017–1034, 2012. doi: 10.1111/j.1469-8986.2012.01384.x
+
+[2] I. A. McGregor. "The Sweating Reactions of the Forehead." The Journal of Physiology, vol. 116, no. 1, pp. 26–34, 1952.
+
+[3] C. A. Machado-Moreira, F. Wilmink, A. Meijer, I. B. Mekjavic, y N. A. S. Taylor. "Local differences in sweat secretion from the head during rest and exercise in the heat." European Journal of Applied Physiology, vol. 104, pp. 257–264, 2008. doi: 10.1007/s00421-007-0645-y
+
+[4] J. Brandstetter, E.-M. Knoch, y F. Gauterin. "Towards In-Vehicle Non-Contact Estimation of EDA-Based Arousal with LiDAR." Sensors, vol. 25, no. 23, art. 7395, 2025.
+
+[5] A. N. Jayanthi, R. Nivedha, y C. Vani. "Galvanic Skin Response Measurement and Analysis." International Journal of Applied Engineering Research, vol. 10, no. 16, 2015.
+
+[6] J. R. Jiménez Cruz y M. A. González Rivera. "Estimación del estrés por medio de la entropía de la variabilidad de la frecuencia cardíaca y la respuesta galvánica de la piel." Pistas Educativas, no. 134, pp. 322–340, nov. 2019.
+
+[7] W. Romine, N. Schroeder, T. Banerjee, y J. Graft. "Toward Mental Effort Measurement Using Electrodermal Activity Features." Sensors, vol. 22, no. 19, art. 7363, 2022.
