@@ -224,7 +224,7 @@ En caso contrario, solo se calificará al estudiante que aparece como editor.
 •Pregunta 1: ¿A qué se debe que una inspiración profunda incremente la
 magnitud de la respuesta galvánica cutánea (GSR)?
 
-cuando se realiza una inspiracion profunda y ademas rapida, cambia el comportamiento de la actividad simpatica, la respiracion esta relacionada con el control autonomo, Durante la inspiracion profunda y rapida, se produce un cambio en la presion intratoracica, y el patron normal de la respiracion, esto provoca  el aumento de la actividad de las glandulas sudoriparas, este aumento incrementa la produccion de sudor rico en electrolitos y por ende tambien un incremento en la conductancia cutanea
+cuando se realiza una inspiracion profunda y ademas rapida, cambia el comportamiento de la actividad simpatica, la respiracion esta relacionada con el control autonomo, durante la inspiracion profunda y rapida, se produce un cambio en la presion intratoracica, y el patron normal de la respiracion, esto provoca  el aumento de la actividad de las glandulas sudoriparas, este aumento incrementa la produccion de sudor rico en electrolitos y por ende tambien un incremento en la conductancia cutanea
 
 • Pregunta 2: ¿Cuáles serían las ventajas y desventajas de utilizar la GSR
 como indicador de estrés?
