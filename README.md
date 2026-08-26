@@ -201,9 +201,17 @@ mientras lleva puesto el vestible.
 <b>Figura 5.</b> Señal Capturada en la Prueba de Educaplay.
 </p>
 
-A diferencia de las señales expuestas en la parte B,  esta señal no muestra una tendencia de elevación sostenida, el nivel tónico se mantiene estable en torno a una mediana de 1.6867 V durante los 90 segundos completos del Educaplay. Lo que sí se observa con claridad es una actividad fásica frecuente: se detectaron 29 picos de conductancia por encima del nivel basal  equivalentes a una tasa de 19.3 picos por minuto, con amplitudes de entre 5 y 10 mV sobre la mediana y un pico máximo de 1.6971 V (≈10.5 mV sobre basal) hacia el segundo 56 del cuestionario.
+A diferencia de las señales obtenidas y mostradas  en las Parte B, en este caso no se observa una tendencia clara de aumento sostenido de la señal. Esto indica que el nivel tónico de la señal se mantuvo relativamente estable durante los 90 segundos del cuestionario.
 
-Este patrón —nivel tónico estable con múltiples respuestas fásicas breves y recurrentes, en lugar de una única elevación sostenida  es consistente con la naturaleza de un cuestionario tipo Educaplay, cada nueva pregunta, cada decisión bajo el cronómetro visible y cada retroalimentación de acierto/error constituye un microestímulo discreto capaz de generar una SCR individual, en lugar de un estresor único y continuo como la inspiración profunda de la Parte B figura 4.
+Sin embargo, sí se puede observar una actividad fásica frecuente a lo largo de la señal. Se identificaron 29 picos de conductancia por encima del nivel basal, utilizando como criterio una prominencia mínima de 3 mV y una separación de al menos 1.5 s entre picos. Esto corresponde aproximadamente a 19.3 picos por minuto. Las amplitudes de estas respuestas estuvieron entre 5 y 10 mV sobre la mediana, mientras que el valor máximo registrado fue de 1.6971 V, aproximadamente 10.5 mV por encima del nivel basal, alrededor del segundo 56 del cuestionario.
+
+Este comportamiento, caracterizado por un nivel tónico estable acompañado de varias respuestas fásicas cortas y repetitivas, puede relacionarse con la dinámica de un cuestionario tipo educaplay. En este tipo de actividad, cada nueva pregunta genera la necesidad de tomar una decisión dentro de un tiempo limitado y la retroalimentación sobre si la respuesta fue correcta o incorrecta pueden actuar como pequeños estímulos. Por esta razón, es posible que cada uno de estos eventos produzca una respuesta SCR individual, en lugar de generar una respuesta sostenida como podría ocurrir ante un estímulo continuo.
+
+Una posible explicación para este comportamiento es el nivel de conocimiento que tenía el sujeto sobre el contenido del cuestionario. En este caso, las preguntas estaban relacionadas con fisiología del cuerpo humano, un tema sobre el cual el participante tenía conocimientos previos. Esto podría haber hecho que la tarea fuera percibida como relativamente manejable y que las respuestas se realizaran con mayor confianza.
+
+Desde esta perspectiva, la señal podría estar mostrando principalmente respuestas simpáticas puntuales asociadas con la atención y con la toma de decisiones en cada pregunta, lo que explicaría la presencia de los 29 picos. Sin embargo al no existir una incertidumbre o presión suficientemente alta y sostenida, no se generaría un aumento progresivo del nivel tónico de la señal.
+
+En otras palabras, los resultados parecen representar más un estado de atención activa y repetitiva con un bajo nivel de amenaza percibida, que una situación de esfuerzo mental sostenido acompañado de incertidumbre. Esta interpretación es coherente con lo reportado por Romine et al., quienes relacionan un mayor incremento de la SCL con tareas que representan una mayor exigencia percibida para el sujeto [7].
 
 2. Documente la práctica explicando paso a paso cuál fue el procedimiento que
 se siguió y dando respuesta a las preguntas que se formulan en la guía (ver
