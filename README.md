@@ -114,3 +114,7 @@ REFERENCIAS
 [6] J. R. Jiménez Cruz y M. A. González Rivera. "Estimación del estrés por medio de la entropía de la variabilidad de la frecuencia cardíaca y la respuesta galvánica de la piel." Pistas Educativas, no. 134, pp. 322–340, nov. 2019.
 
 [7] W. Romine, N. Schroeder, T. Banerjee, y J. Graft. "Toward Mental Effort Measurement Using Electrodermal Activity Features." Sensors, vol. 22, no. 19, art. 7363, 2022.
+
+[8] International Electrotechnical Commission. IEC 60479-1: Effects of current on human beings and livestock – Part 1: General aspects. Ginebra, 2018.
+
+[9] International Electrotechnical Commission. IEC/TS 60479-2: Effects of current on human beings and livestock – Part 2: Special aspects. Ginebra, 2019.
