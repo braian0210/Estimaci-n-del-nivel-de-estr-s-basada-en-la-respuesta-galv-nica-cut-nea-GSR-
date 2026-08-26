@@ -206,9 +206,12 @@ En caso contrario, solo se calificará al estudiante que aparece como editor.
 •Pregunta 1: ¿A qué se debe que una inspiración profunda incremente la
 magnitud de la respuesta galvánica cutánea (GSR)?
 
+cuando se realiza una inspiracion profunda y ademas rapida, cambia el comportamiento de la actividad simpatica, la respiracion esta relacionada con el control autonomo, Durante la inspiracion profunda y rapida, se produce un cambio en la presion intratoracica, y el patron normal de la respiracion, esto provoca  el aumento de la actividad de las glandulas sudoriparas, este aumento incrementa la produccion de sudor rico en electrolitos y por ende tambien un incremento en la conductancia cutanea
+
 • Pregunta 2: ¿Cuáles serían las ventajas y desventajas de utilizar la GSR
 como indicador de estrés?
 
+Como ventaja seria una prueba de aumentos repentivns dependiendo a como se maneje la prueba, pues al ser tan estrechamente relacionada el momento sucediendo y el indicador podemos saber de primera mano informacion facilmente relacionable, sin embargo esto no es un indicador directo de estres, es mas un indicador directo de un fenomeno al que se le puede o no atribuir al estres, principalmente porque la respuesta galvanica cutanea no se produce unicamente por estres, la relacion entre el nivel basal y el nivel de la respuesta electrodermica tambien influye pues el cambio puede ser muy alto o muy minimo, tambien se sabe que seria una prueba altamente malinterpretable pues el estres es multicausal, esto indica que ante la posibilidad que nos evaluen el estres, internamente estamos predispuestos a una inmunidad ligera a este o un inicio de este mismo incluso antes de el comienzo de las pruebas, sin mencionar que al ser una señal fisiologica lenta, no es posible determinar una nueva lectura si es que se incrementa la activacion de las glandulas sudoriparas de forma no intencionada, esto es claramente evidenciado bajo un ejemplo de prueba de poligrafo.
 
 CONCLUSION
 
