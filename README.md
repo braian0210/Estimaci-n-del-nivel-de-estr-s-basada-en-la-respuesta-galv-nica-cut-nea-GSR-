@@ -62,7 +62,7 @@ I = \frac{V^+}{R_1 + R_{skin}}
 $$
 
 Para el caso extremo exigido por la guía (piel equivalente a un cortocircuito, 
-𝑅𝑠𝑘𝑖𝑛 = =0 Ω), y con 𝑅1 = 68 kΩ:
+𝑅𝑠𝑘𝑖𝑛 = 0 Ω), y con 𝑅1 = 68 kΩ:
 
 Límite inferior del rango permitido (3.3 VDC):
 
