@@ -122,7 +122,7 @@ mueve, camina o realiza tareas como escribir.
   <b>Figura 2.</b> Esquema de Conexiones del Dispositivo.
 </p>
 
-El dispositivo construido consta de dos módulos físicamente separados, conectados por un cable flexible de longitud suficiente para permitir libertad de movimiento (Figura 1):
+El dispositivo construido consta de dos módulos físicamente separados:
 
 Módulo sensor (frontal): una banda elástica ajustable que se coloca alrededor de la frente, sobre la cual se fijan mediante broche dos electrodos desechables Ag-AgCl (3M Red Dot), correspondientes a los conectores TIP (cable amarillo) y RING1 (cable verde) del jack TRRS de 3.5 mm.
 
