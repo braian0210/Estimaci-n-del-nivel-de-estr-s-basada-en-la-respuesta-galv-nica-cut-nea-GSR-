@@ -186,6 +186,8 @@ o, incluso, a un celular. Para este caso, lo que se mostrará no será la señal
 sino un mensaje o alerta que indique el “nivel” de estrés que esa persona
 percibe.
 
+El dispositivo transmite la señal de forma inalámbrica mediante la opción de  Bluetooth de la ESP32-S3, sin requerir ninguna conexión física  entre el sujeto de prueba y el computador durante la adquisición. La comunicación se estableció mediante el Arduino Hardware Support Package de MATLAB, que reconoce la placa por su dirección Bluetooth y permite configurar y leer el pin GPIO4 de forma remota tal como se describió anteriormente.
+
 PARTE C
 1. Presente el dispositivo para medir la GSR en tiempo real y que, mediante
 transmisión inalámbrica, muestre el nivel de estrés que percibe un sujeto
