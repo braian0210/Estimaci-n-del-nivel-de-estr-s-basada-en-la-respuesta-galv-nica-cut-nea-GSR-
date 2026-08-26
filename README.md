@@ -159,9 +159,9 @@ Módulo sensor (frontal): una banda elástica ajustable que se coloca alrededor 
 
 Módulo electrónico: agrupa la batería LiPo, el módulo de carga y protección TP4056, el convertidor elevador MT3608 con su interruptor de encendido, y el microcontrolador ESP32-S3-N16R8, que integra el divisor R1‖C1 y ejecuta la adquisición y transmisión Bluetooth de la señal. Al no requerir conexión a un computador ni a la red eléctrica, este módulo es completamente autónomo y portátil, cumpliendo el requisito de dispositivo vestible.
 
-La separación física entre el sitio de electrodos (frente) y la electrónica (muñeca/brazo) permite que el cable de señal se mantenga corto y estable, mientras que el módulo electrónico más voluminoso se ubica en una zona que no interfiere con los movimientos evaluados en esta sección (caminar, escribir).
+La separación física entre el sitio de electrodos (frente) y la electrónica permite que el cable de señal se mantenga estable, mientras que el módulo electrónico se ubica en una zona que no interfiere con los movimientos evaluados en esta sección (caminar, escribir).
 
-El esquema de conexión completo, correspondiente a lo mostrado físicamente en la Figura 1, se presenta de forma simplificada en la Figura 2, y fue validado mediante el envío inalámbrico de la señal capturada en el pin GPIO4 hacia un computador a través de MATLAB.
+El esquema de conexión completo, correspondiente a lo mostrado físicamente en la Figura 1, se presenta de forma simplificada en la Figura 2, y fue validado mediante el envío inalámbrico de la señal capturada en el pin GPIO4  a través de MATLAB.
 
 <img width="1657" height="777" alt="image" src="https://github.com/user-attachments/assets/59367a5f-4a4e-41ed-b4a6-3481ced1feb1" />
 
