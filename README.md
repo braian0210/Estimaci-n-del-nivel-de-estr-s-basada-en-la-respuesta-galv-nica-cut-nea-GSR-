@@ -139,6 +139,15 @@ y B. Asegúrese de incluir gráficas con buena resolución. Cada estudiante debe
 tener su propia cuenta y deben aparecer como colaboradores en el repositorio.
 En caso contrario, solo se calificará al estudiante que aparece como editor.
 
+•Pregunta 1: ¿A qué se debe que una inspiración profunda incremente la
+magnitud de la respuesta galvánica cutánea (GSR)?
+
+• Pregunta 2: ¿Cuáles serían las ventajas y desventajas de utilizar la GSR
+como indicador de estrés?
+
+
+CONCLUSION
+
 REFERENCIAS
 
 [1] SPR Ad Hoc Committee on Electrodermal Measures. "Publication recommendations for electrodermal measurements." Psychophysiology, vol. 49, no. 8, pp. 1017–1034, 2012. doi: 10.1111/j.1469-8986.2012.01384.x
