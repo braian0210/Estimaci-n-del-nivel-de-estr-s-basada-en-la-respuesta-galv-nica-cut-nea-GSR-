@@ -178,7 +178,7 @@ y elevado.
 <img width="1853" height="770" alt="image" src="https://github.com/user-attachments/assets/e19413db-e232-4258-8c41-edcf6c4e90a1" />
 <b>Figura 4.</b> Señal en Reposo.
 </p>
-
+Se puede apreciar un nivel basal de 1.835V captador por el electrodo, este es el punto en reposo de la conductancia cutanea que tras unos segundos de inspiraciones profundas, aumento de la frecuencia respiratoria de forma voluntaria y ejercicios rapidos con el fin de reducir la impedancia de la piel, la confuctancia fue aumentando progresivamente hasta alcanzar un pico de 1.85 volteos a los 50 segundos, esto por un aumento en el sistema simpatico que provoca un incremento de la actividad de las glandulas sudoriparas, estas producen sudor que es altamente rico en electrolitos e iones como el Cloro y el sodio, debido a estos, el sudor regado por la piel, aumenta la capacidad conductora de esta, como es una señal lenta sin posibilidad para el sistema parasimpatico de regularla, tras su incremento, es necesario un tiempo para restablecer la conductancia electrodermica basal luego de una exposicion. Durante la medicion, la muestra tomada fue realizada tras varios intentos de captura por lo cual se puede evidenciar desde un inicio un medio parcialemnte conductante lo que explica el porque hay tan poco cambio tras el periodo de intentar activar el sistema simpatico de forma voluntarea
 
 3. Realice las modificaciones y/o adiciones al dispositivo que sean necesarias
 para que éste transmita los datos de forma inalámbrica al computador personal
