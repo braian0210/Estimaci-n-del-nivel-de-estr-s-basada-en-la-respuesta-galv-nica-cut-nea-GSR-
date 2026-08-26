@@ -118,6 +118,7 @@ mueve, camina o realiza tareas como escribir.
 
 
 <img width="706" height="636" alt="image" src="https://github.com/user-attachments/assets/83280105-d3d7-4a69-b1f6-75c7f648b058" />
+ 
   <b>Figura 2.</b> Esquema de Conexiones del Dispositivo.
 </p>
 
