@@ -197,6 +197,14 @@ mientras resuelve problemas que demandan cierto nivel de concentración y
 esfuerzo mental. Para ello, se le aplicará un breve examen al sujeto de prueba
 mientras lleva puesto el vestible.
 
+<img width="1612" height="756" alt="image" src="https://github.com/user-attachments/assets/58d88aab-ef9a-49fa-8382-74c751229468" />
+<b>Figura 5.</b> Señal Capturada en la Prueba de Educaplay.
+</p>
+
+A diferencia de las señales expuestas en la parte B,  esta señal no muestra una tendencia de elevación sostenida, el nivel tónico se mantiene estable en torno a una mediana de 1.6867 V durante los 90 segundos completos del Educaplay. Lo que sí se observa con claridad es una actividad fásica frecuente: se detectaron 29 picos de conductancia por encima del nivel basal  equivalentes a una tasa de 19.3 picos por minuto, con amplitudes de entre 5 y 10 mV sobre la mediana y un pico máximo de 1.6971 V (≈10.5 mV sobre basal) hacia el segundo 56 del cuestionario.
+
+Este patrón —nivel tónico estable con múltiples respuestas fásicas breves y recurrentes, en lugar de una única elevación sostenida  es consistente con la naturaleza de un cuestionario tipo Educaplay, cada nueva pregunta, cada decisión bajo el cronómetro visible y cada retroalimentación de acierto/error constituye un microestímulo discreto capaz de generar una SCR individual, en lugar de un estresor único y continuo como la inspiración profunda de la Parte B figura 4.
+
 2. Documente la práctica explicando paso a paso cuál fue el procedimiento que
 se siguió y dando respuesta a las preguntas que se formulan en la guía (ver
 Parte 15). Suministre una breve conclusión y elabore un repositorio en la
