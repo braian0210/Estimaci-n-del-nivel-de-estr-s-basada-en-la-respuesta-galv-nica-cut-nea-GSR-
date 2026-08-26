@@ -163,12 +163,22 @@ La separación física entre el sitio de electrodos (frente) y la electrónica (
 
 El esquema de conexión completo, correspondiente a lo mostrado físicamente en la Figura 1, se presenta de forma simplificada en la Figura 2, y fue validado mediante el envío inalámbrico de la señal capturada en el pin GPIO4 hacia un computador a través de MATLAB.
 
+<img width="1141" height="747" alt="señal_profe" src="https://github.com/user-attachments/assets/516ad7ef-a332-407e-8453-602e726cf194" />
+<b>Figura 3.</b>Señal Capturada .
+</p>
+
+
 2. Pídale al sujeto de prueba que, en reposo y cómodamente sentado, realice una
 inspiración profunda y que luego exhale lentamente. En respuesta, la GSR
 debe aumentar considerablemente en valor para luego regresar muy
 paulatinamente al valor inicial. Tome nota de los valores máximo y mínimo y
 defina, con base en ellos, umbrales para denotar poco estrés, estrés moderado
 y elevado.
+
+<img width="1853" height="770" alt="image" src="https://github.com/user-attachments/assets/e19413db-e232-4258-8c41-edcf6c4e90a1" />
+<b>Figura 4.</b> Señal en Reposo.
+</p>
+
 
 3. Realice las modificaciones y/o adiciones al dispositivo que sean necesarias
 para que éste transmita los datos de forma inalámbrica al computador personal
