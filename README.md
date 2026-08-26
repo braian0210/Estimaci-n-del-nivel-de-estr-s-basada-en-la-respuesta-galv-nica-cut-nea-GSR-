@@ -111,6 +111,26 @@ permita visualizar la señal tal y como es capturada. Evalúe el comportamiento
 del dispositivo mientras el sujeto que lo lleva puesto (i.e., sujeto de prueba) se
 mueve, camina o realiza tareas como escribir.
 
+
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/03e455c0-675e-4589-b39b-21e3548d1945" />
+  <b>Figura 1.</b>Dispositivo Construido.
+</p>
+
+
+<img width="706" height="636" alt="image" src="https://github.com/user-attachments/assets/83280105-d3d7-4a69-b1f6-75c7f648b058" />
+  <b>Figura 2.</b> Esquema de Conexiones del Dispositivo.
+</p>
+
+El dispositivo construido consta de dos módulos físicamente separados, conectados por un cable flexible de longitud suficiente para permitir libertad de movimiento (Figura 1):
+
+Módulo sensor (frontal): una banda elástica ajustable que se coloca alrededor de la frente, sobre la cual se fijan mediante broche dos electrodos desechables Ag-AgCl (3M Red Dot), correspondientes a los conectores TIP (cable amarillo) y RING1 (cable verde) del jack TRRS de 3.5 mm.
+
+Módulo electrónico: agrupa la batería LiPo, el módulo de carga y protección TP4056, el convertidor elevador MT3608 con su interruptor de encendido, y el microcontrolador ESP32-S3-N16R8, que integra el divisor R1‖C1 y ejecuta la adquisición y transmisión Bluetooth de la señal. Al no requerir conexión a un computador ni a la red eléctrica, este módulo es completamente autónomo y portátil, cumpliendo el requisito de dispositivo vestible.
+
+La separación física entre el sitio de electrodos (frente) y la electrónica (muñeca/brazo) permite que el cable de señal se mantenga corto y estable, mientras que el módulo electrónico más voluminoso se ubica en una zona que no interfiere con los movimientos evaluados en esta sección (caminar, escribir).
+
+El esquema de conexión completo, correspondiente a lo mostrado físicamente en la Figura 1, se presenta de forma simplificada en la Figura 2, y fue validado mediante el envío inalámbrico de la señal capturada en el pin GPIO4 hacia un computador a través de MATLAB.
+
 2. Pídale al sujeto de prueba que, en reposo y cómodamente sentado, realice una
 inspiración profunda y que luego exhale lentamente. En respuesta, la GSR
 debe aumentar considerablemente en valor para luego regresar muy
