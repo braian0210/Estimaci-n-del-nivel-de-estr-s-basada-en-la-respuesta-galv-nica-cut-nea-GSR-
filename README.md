@@ -55,7 +55,35 @@ necesarios para garantizar que a través de la piel de un sujeto sano circule un
 corriente no mayor a 1 mA. Para ello, contemple en caso extremo en el que la
 resistencia de la piel equivale a un cortocircuito (i.e., Rskin = 0 Ω).
 
+Partiendo del modelo de divisor de tensión ya presentado, la corriente que circula por el sujeto está dada por:
 
+$$
+I = \frac{V^+}{R_1 + R_{skin}}
+$$
+
+Para el caso extremo exigido por la guía (piel equivalente a un cortocircuito, 
+𝑅𝑠𝑘𝑖𝑛 = =0 Ω), y con 𝑅1 = 68 kΩ:
+
+Límite inferior del rango permitido (3.3 VDC):
+
+$$
+I = \frac{3.3\,V}{68\,000\,\Omega} \approx 48.5\,\mu A
+$$
+
+Límite superior del rango permitido (5 VDC):
+
+$$
+I = \frac{5\,V}{68\,000\,\Omega} \approx 73.5\,\mu A
+$$
+
+Voltaje empleado en el dispositivo construido (3.87 voltios:
+
+$$
+I = \frac{3.87\,V}{68\,000\,\Omega} \approx 56.9\,\mu A
+$$
+
+En los tres casos, la corriente máxima posible por el sujeto se mantiene muy por debajo del límite de 1 mA exigido por la guía, incluso el peor caso dentro del rango completo (73.5 µA a 5V) representa apenas un 7.35% de dicho límite, y también muy por debajo de los umbrales reales de percepción y riesgo documentados en la norma IEC 60479 para corriente continua. Esto confirma que 
+𝑅1 = 68 kΩ es un valor con amplio margen de seguridad para cualquier voltaje de alimentación dentro del rango permitido por la guía, incluyendo el valor particular resultante de la configuración final del circuito de alimentación.
 
 4. Diseñe un dispositivo vestible que permita capturar las variaciones de la GSR y
 transmitirlas de forma alámbrica a un computador personal. Medite muy bien
