@@ -48,6 +48,37 @@ Desde el punto de vista de aplicación en ingeniería biomédica, la GSR ha sido
 2. Investigue sobre los efectos de las corrientes directa y alterna en seres
 humanos (norma IEC 60479, ítems 1-5).
 
+La norma IEC 60479 es aquella que establece los umbrales de corriente en los que se reproducen los distintos efectos fisiopaticos que pueden causar la electricidada en el cuerpo humano, hace una distincion entre la corriente alterna y le corriente continua pues sus umbrales de riesgos son completamente diferentes
+
+
+Corriente alterna:
+
+Para la corriente alterna se define como 0.5mA para el umbral de percepcion, independiende de la duracion de exposicion, por debajo, el ser humano no presenta posibilidad de sensacion de la corriente que pasa por su cuerpo
+
+1mA para una reaccion muscular de reflejo a la entrada de corriente
+
+3 mA esta el umbral de no soltar, pero se estima un promedio de accion de este efecto a los 10mA este se causa por contracciones muscularesi nvoluntarias que impiden que la persona deje de tensar musculos flexores proximales, entre ellos los de las manos y por lo tanto soltar el dispositivo/cable/contacto que esta transmitiendo la corriente
+
+desde los 21mA para las contracciones musculares involuntarias y para entrar en el umbral de fibrilacion ventricular, existen 2 variables de las que depende el inicio de estas, una es el tiempo de exposicion y otra la intensidad de corriente, para iniciar la cardiopatia con una exposicion de menos de 0.1s, se requieren corrientes superiores a 500 mA, para exposiciones de 1s el umbral desciende a 50mA y para duraiones superiores a 3 segundos se mantiene estable y hacia adelante de 40mA, este valor minimo se considera uno en el que en tiempos razonables de accidente o contacto no puede reproducirse el fenomeno.
+
+40-100 es el rango en el que se puede producir un paro respiratorio por la contraccion de los musculos responsables del proceso respiratorio y causando una alteracion del ritmo, capacidad y provocando un descontrol que impide la tarea de los musculos intercostales y el diafragma, puesto que la respiracion es un proceso en el que los musculos provocan la entrada y salida de flujo por medio de presiones el descontrol es equivalente a dejar de respirar y no se restablece de inmediato tras dejar de recibir la corriente.
+
+Para la muerte súbita, se da desde 100mA a un 500mA dependiendo factores fisiologicos de la persona y el tiempo de exposicion si es mayor a 0.1s
+
+
+Corriente directa:
+
+Umbral de perscepcion es de 0 a 4mA independiente de tiempo de exposicion, este por otro lado puede  sentirse desde los 0 mA, pero el limite superior aumenta hasta los 4mA
+
+4mA es el umbral para el reflejo del cuerpo
+
+15-80mA para iniciar las contracciones musculares involuntareas 
+
+80-160mA para posible fibrilacion ventricular 
+
+160-300mA para inducir un paro respiratorio
+
+300+mA para la muerte subita 
 
 
 3. Con valores de alimentación entre +3.3 y +5 VDC, realice los cálculos
