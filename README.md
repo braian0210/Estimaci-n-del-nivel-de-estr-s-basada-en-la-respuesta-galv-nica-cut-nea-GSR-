@@ -124,7 +124,7 @@ mueve, camina o realiza tareas como escribir.
 
 El dispositivo construido consta de dos módulos físicamente separados:
 
-Módulo sensor (frontal): una banda elástica ajustable que se coloca alrededor de la frente, sobre la cual se fijan mediante broche dos electrodos desechables Ag-AgCl (3M Red Dot), correspondientes a los conectores TIP (cable amarillo) y RING1 (cable verde) del jack TRRS de 3.5 mm.
+Módulo sensor (frontal): una banda elástica ajustable que se coloca alrededor de la frente, sobre la cual se fijan mediante broche dos electrodos desechables Ag-AgCl, correspondientes a los conectores TIP (cable amarillo) y RING1 (cable verde) del jack TRRS de 3.5 mm.
 
 Módulo electrónico: agrupa la batería LiPo, el módulo de carga y protección TP4056, el convertidor elevador MT3608 con su interruptor de encendido, y el microcontrolador ESP32-S3-N16R8, que integra el divisor R1‖C1 y ejecuta la adquisición y transmisión Bluetooth de la señal. Al no requerir conexión a un computador ni a la red eléctrica, este módulo es completamente autónomo y portátil, cumpliendo el requisito de dispositivo vestible.
 
