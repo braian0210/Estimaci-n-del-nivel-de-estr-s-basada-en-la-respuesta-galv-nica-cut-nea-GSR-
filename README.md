@@ -31,18 +31,38 @@ PARTE A.
 1. Llevar a cabo una revisión de la literatura sobre la actividad electrodérmica y
 respuesta galvánica cutánea.
 
-3. Investigue sobre los efectos de las corrientes directa y alterna en seres
+La actividad electrodérmica (EDA) es el término general que agrupa los distintos fenómenos eléctricos medibles en la piel humana, el mecanismo fisiológico involucrado está relacionado principalmente con la activación de las glándulas sudoríparas ecrinas. Estas glándulas reciben la señal de fibras nerviosas simpáticas colinérgicas, que utilizan la acetilcolina como neurotransmisor para generar la respuesta de sudoración. A diferencia de otras respuestas autonómicas, Debido a que la EDA no presenta una influencia parasimpática que contrarreste su respuesta, puede utilizarse como un indicador bastante directo de la activación del sistema nervioso simpático en una persona [1].
+
+Existen dos formas fundamentales de registrar esta actividad. El método endosomático mide la diferencia de potencial que existe de forma espontánea entre un sitio activo (palma o planta) y un sitio de referencia relativamente inactivo (antebrazo), sin aplicar corriente externa. El método exosomático, ampliamente preferido en la literatura por su sencillez de interpretación, aplica una corriente directa (DC) de bajo voltaje constante (típicamente 0.5 V) a través de un par de electrodos, generalmente de Ag-AgCl, situados sobre la piel. Dado que la piel se comporta como una resistencia, la corriente resultante es proporcional al inverso de dicha resistencia, es decir, a la conductancia cutánea [1]. Existe también la alternativa de corriente alterna (AC), que reduce artefactos de polarización electródica, aunque su uso permanece considerablemente menos extendido [1].
+
+La señal de conductancia cutánea posee dos componentes claramente diferenciables:
+
+- Nivel de conductancia cutánea (SCL, Skin Conductance Level): componente tónica o basal, que varía lentamente en el tiempo  y refleja el estado general de activación autonómica del sujeto.
+  
+- Respuesta de conductancia cutánea (SCR o GSR, Skin Conductance Response): corresponde a la parte transitoria de la señal que se presenta sobre la SCL. Se caracteriza por un aumento relativamente rápido de la conductancia, que suele aparecer después de 1 a 3 segundos, seguido de una disminución más lenta hasta regresar al nivel basal. Esta diferencia entre la rapidez con la que aumenta y disminuye la señal es una de las principales características que permite identificar una SCR real y diferenciarla del ruido o de posibles artefactos en la medición [1].
+
+Un problema metodológico documentado es que las SCR suelen ser de magnitud pequeña en comparación con la SCL sobre la que se superponen, lo que dificulta su observación directa si el sistema de adquisición no cuenta con suficiente rango o una función de autoescalado adecuada [1].
+
+Desde el punto de vista de aplicación en ingeniería biomédica, la GSR ha sido validada como indicador efectivo de estrés en población universitaria, donde su análisis conjunto con la variabilidad de la frecuencia cardiaca permite diferenciar estadísticamente estados de reposo y de estrés inducido [6]. También ha sido empleada en dispositivos vestibles de bajo costo basados en microcontroladores de propósito general (Arduino), interfaz gráfica y divisores resistivos similares al empleado en esta práctica [5], así como en la predicción de esfuerzo mental mediante características extraídas de la señal en registros prolongados de uso cotidiano [7].
+
+2. Investigue sobre los efectos de las corrientes directa y alterna en seres
 humanos (norma IEC 60479, ítems 1-5).
 
-5. Con valores de alimentación entre +3.3 y +5 VDC, realice los cálculos
+
+
+3. Con valores de alimentación entre +3.3 y +5 VDC, realice los cálculos
 necesarios para garantizar que a través de la piel de un sujeto sano circule una
 corriente no mayor a 1 mA. Para ello, contemple en caso extremo en el que la
 resistencia de la piel equivale a un cortocircuito (i.e., Rskin = 0 Ω).
 
-7. Diseñe un dispositivo vestible que permita capturar las variaciones de la GSR y
+
+
+4. Diseñe un dispositivo vestible que permita capturar las variaciones de la GSR y
 transmitirlas de forma alámbrica a un computador personal. Medite muy bien
 sobre la región anatómica a la cual se sujetarán los electrodos para capturar la
 señal con un mínimo de interferencia.
+
+
 
 PARTE B
 
