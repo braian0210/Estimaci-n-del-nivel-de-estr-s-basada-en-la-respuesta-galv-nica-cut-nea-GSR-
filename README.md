@@ -163,7 +163,8 @@ La separación física entre el sitio de electrodos (frente) y la electrónica (
 
 El esquema de conexión completo, correspondiente a lo mostrado físicamente en la Figura 1, se presenta de forma simplificada en la Figura 2, y fue validado mediante el envío inalámbrico de la señal capturada en el pin GPIO4 hacia un computador a través de MATLAB.
 
-<img width="1141" height="747" alt="señal_profe" src="https://github.com/user-attachments/assets/516ad7ef-a332-407e-8453-602e726cf194" />
+<img width="1657" height="777" alt="image" src="https://github.com/user-attachments/assets/59367a5f-4a4e-41ed-b4a6-3481ced1feb1" />
+
 <b>Figura 3.</b>Señal Capturada .
 </p>
 
