@@ -90,7 +90,19 @@ transmitirlas de forma alámbrica a un computador personal. Medite muy bien
 sobre la región anatómica a la cual se sujetarán los electrodos para capturar la
 señal con un mínimo de interferencia.
 
+El sistema se basa en un microcontrolador ESP32-S3-N16R8 que implementa el divisor de tensión resistivo-capacitivo alimentado desde el pin 3V3 de la propia placa. La interfaz con el sujeto se resuelve mediante un conector jack TRRS de 3.5 mm hembra (pines TIP y RING1), conectado a un cable de electrodos tipo ECG con terminales tipo broche, sobre el cual se fijan electrodos desechables Ag-AgCl. El nodo de lectura (GPIO4, ADC1_CH3) se transmite de forma inalámbrica por Bluetooth al computador, aprovechando el soporte de conectividad del ESP32-S3 junto con el Arduino Hardware Support Package de MATLAB, mediante un objeto arduino vinculado por dirección Bluetooth a la placa, el pin GPIO4 se configura como entrada analógica  y se realiza la adquisición continua. Esta arquitectura evita por completo la dependencia de un cable de datos entre el sujeto y el computador, cumpliendo simultáneamente el requisito de adquisición y de transmisión inalámbrica.
 
+Para que el dispositivo sea completamente portátil y no dependa del computador ni de la red eléctrica, se utiliza una batería LiPo de 3.7 V y 500 mAh. La batería cuenta con un módulo TP4056 que permite realizar su carga y ofrece protección contra sobrecargas, sobredescargas y cortocircuitos. Por otra parte, el convertidor elevador MT3608 se encarga de proporcionar el voltaje necesario para el funcionamiento del circuito, permitiendo mantener el dispositivo operativo durante toda la prueba.
+
+La literatura clásica recomienda como sitio estándar la superficie palmar de los dedos, debido a la mayor densidad de glándulas ecrinas con respuesta específicamente emocional en dichas zonas [1]. Sin embargo, esta práctica exige que el sujeto de prueba pueda moverse, caminar y escribir con normalidad mientras porta el dispositivo, y que posteriormente resuelva una tarea que demanda el uso activo de las manos. Colocar los electrodos en los dedos o la palma habría comprometido directamente estas dos condiciones introduciendo artefactos de movimiento cada vez que el sujeto usara o realizara movimientos con la mano.
+
+Por esta razón se optó por la región frontal (frente) como sitio de electrodos, decisión respaldada por evidencia fisiológica específica:
+
+McGregor demostró experimentalmente, ya en 1952, que la frente produce sudoración de origen genuinamente emocional no solo térmico, empleando un protocolo de tensión  en estudiantes que esperaban el resultado de un examen oral [2].
+Machado y Moreira confirmaron que la frente concentra una de las densidades más altas de glándulas sudoríparas ecrinas de todo el cuerpo, lo que favorece una señal de mayor amplitud absoluta; los mismos autores advierten, no obstante, que su respuesta está considerablemente más influenciada por carga térmica que sitios como la palma, por lo que la temperatura ambiental debe mantenerse controlada durante el registro [3].
+Trabajos recientes de instrumentación biomédica sitúan a la frente entre los sitios corporales viables para adquisición de EDA junto con pie, dedo y hombro, aunque con mayor variabilidad interindividual que la palma [4].
+
+En términos de interferencia, la frente ofrece además dos ventajas prácticas sobre los sitios distales (dedos, muñeca): (i) no restringe el uso de las manos durante las tareas de movimiento y escritura requeridas en el desarrollo de la práctica de laboratorio y (ii) al ser una superficie relativamente estable respecto al torso, reduce los artefactos de movimiento asociados a la flexión articular que sí afectarían a un electrodo de muñeca durante desplazamiento activo.
 
 PARTE B
 
